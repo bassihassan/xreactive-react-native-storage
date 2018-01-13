@@ -1,0 +1,30 @@
+{
+  "name": "xreactive-react-native-storage",
+  "version": "1.0.0",
+  "description": "An AsyncStorage wrapper based on RxJs for React Native to simplify the code and take advantage of the power offered by Rx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassihassan/xreactive-react-native-storage.git"
+  },
+  "keywords": [
+    "react-native",
+    "rxjs",
+    "react",
+    "localstorage",
+    "asycstorage"
+  ],
+  "author": "Bassi Hassan <bassihassan3@gmail.com> (https://github.com/bassihassan)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bassihassan/xreactive-react-native-storage/issues"
+  },
+  "homepage": "https://github.com/bassihassan/xreactive-react-native-storage#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "rxjs": "^5.5.2"
+  }
+}
